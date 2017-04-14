@@ -38,3 +38,8 @@ git show <revision>
 git checkout <revision>
 
 
+#richtig mergen:
+git checkout master
+git pull
+git merge stage
+
