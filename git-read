@@ -1,0 +1,45 @@
+
+
+#cooles Readme: https://git-scm.com/book/en/v2/
+
+
+#Repo auf den Rechner kopieren
+git clone
+#git Branch wechseln
+git checkout <branch>
+#Anzeigen in welchem Branch man ist
+git status
+#alles wieder wegschmeissen was man nach dem pull aus dem Repo gebaut hat
+git stash
+
+#die Änderungen ins Repo übertragen
+git commit -a + git push
+
+#einen neuen Feature-Branch erstellen und gleichzeitig hineinwechseln 
+git checkout -b neuerbranch
+
+#in den master reinmergen
+git checkout master
+git merge neuerbranch
+
+#das braucht man wenn man dieses Feature separat anfassen und einchecken möchte oder auch zurückrollen
+
+
+#den Feature-Branch in den Master-Branch reinmergen
+#taggen
+
+#git-versions-log anzeigen lassen - da gibts auch ne Revisions-Nummer
+git log
+
+#git-diff zu einer bestimmten Revision anzeigen lassen
+git show <revision>
+
+#bestimmte Revision wiederherstellen
+git checkout <revision>
+
+
+#richtig mergen:
+git checkout master
+git pull
+git merge stage
+
