@@ -1,3 +1,8 @@
+
+
+#cooles Readme: https://git-scm.com/book/en/v2/
+
+
 #Repo auf den Rechner kopieren
 git clone
 #git Branch wechseln
@@ -9,7 +14,14 @@ git stash
 
 #die Änderungen ins Repo übertragen
 git commit -a + git push
+
 #einen neuen Feature-Branch erstellen und gleichzeitig hineinwechseln 
+git checkout -b neuerbranch
+
+#in den master reinmergen
+git checkout master
+git merge neuerbranch
+
 #das braucht man wenn man dieses Feature separat anfassen und einchecken möchte oder auch zurückrollen
 
 
