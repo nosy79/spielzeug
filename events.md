@@ -10,6 +10,7 @@ In den letzten drei Jahren wurden bereits [viele Daten](https://codingdavinci.de
 Und 2017 geht die Reise weiter. Mit **Coding da Vinci Berlin** kehren wir nach Berlin zurück und legen diesmal einen Schwerpunkt auf die Region Berlin-Brandenburg. 
 
 
+
 Kick-Off:
 21./22. Oktober, Hochschule für Technik und Wirtschaft
 Sprint:
