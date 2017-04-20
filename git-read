@@ -43,3 +43,5 @@ git checkout master
 git pull
 git merge stage
 
+#einzelne commits nicht in den master mergen geht laut johl mit git cherry picking - wie es genau geht, muss mal ausprobiert werden
+#guter start ist vermutlich https://schacon.github.io/git/git-cherry-pick.html https://www.git-scm.com/docs/git-cherry-pick/1.7.3.3 https://gist.github.com/kylejohnson/8554540e741e8ad29412
