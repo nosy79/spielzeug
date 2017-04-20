@@ -1,61 +1,128 @@
-What is Coding da Vinci ?
-Coding da Vinci is the first German open cultural data hackathon. Founded in Berlin in 2014, Coding da Vinci brings cultural heritage institutions together with the hacker & designer community to develop ideas and prototypes for the cultural sector and for the public.
-
-Whilst a classic hackathon offers its participants only a short time frame - typically a weekend - to develop software applications, Coding da Vinci runs for a total of 6 weeks. This extended timeframe provides much-needed space for the formerly separate worlds of creative technology and cultural heritage to interact with and learn from each other.
-
-The 6-week sprint begins with a two-day kick-off event: plenty of time for institutions to present their data sets, and for participants to make contact with the cultural heritage institutions, develop project ideas, and form teams. Over the next 6 weeks, the teams work together to develop and submit their prototypes, before presenting them at the public award ceremony.
-
-
-Kick-off
-Presentation of the data
-Workshops & meet the expert
-
-
-Sprint
-Until the award ceremony you have 6 weeks to work on your project.
-Award ceremony
-Presentation of the projects & award ceremony
-
-
-
-
-What new opportunities does the digital age present for cultural institutions?
-What kind of creative possibilities can be realised if digitised cultural data is made freely available and reusable? More and more cultural heritage institutions are digitising their collections, making it (at least in theory) much easier to share the collections with the public. However, some in the GLAM (galleries, libraries, archives and museums) space are hesitant to do so out of a fear that freely circulating digital cultural artifacts could be misused or that commercialisation by third parties could mean loss of value for the institutions. 
-
-However, digital accessibility of artifacts has the effect of changing the relationship between cultural institutions and culturally interested people: if the digital counterparts of physical originals can be copied without cost, if they can be modified, edited, and made available everywhere through the internet, the the visitor is empowered and can actively participate in the creation of culture. Rather than just consuming knowledge, they have the possibility to spread, enrich, re-contextualize, and work with it in order to create new knowledge. 
-Sadly, despite their huge potential, this type of digital user is often unknown to the cultural institutions. Within the realms of networked possibilities available to us today, it becomes increasingly important for archives, museums, and libraries to address the question of how they connect with their digital visitors, and how and in what shape they want to make their digital collections accessible.
-It is now time to discover what new perspectives and questions arise from this digitalisation.  What role will GLAMs will play in promoting cultural heritage and making it accessible to new target groups? What can they learn from the creative minds of the digital world?
-
-
-What are the goals of Coding da Vinci?
-Coding da Vinci addresses these challenges head-on by creating a platform to connect cultural institutions and creative communities working with digital data. Since its launch in Berlin, 2014, the Coding da Vinci project has grown to become a well established part of the open cultural data landscape. The Coding da Vinci project archive is quickly becoming a great resource of examples and inspiration, enabling curators and those responsible for managing data repositories within cultural institutions to envision the potential of opening up digitized cultural artifacts to new users.
-Following the success of the first regional Coding da Vinci event, Coding da Vinci Nord in Hamburg, 2016, the project is now expanding the around the country with regional events in Berlin-Brandenburg, Hamburg, Rhein-Main, and further regions to be confirmed.
-The long-term mission of Coding da Vinci is to create lasting structures within which cultural institutions and interested sectors of civil society can work together through open data. We hope to support cultural institutions through this transition as they expand their open data policies, making our cultural heritage digitally accessible for everybody.
-
-
-
-What is ‘open (cultural) data’?
-Open data refers to metadata and content, that is placed under an open license, as described by the [open definition](http://opendefinition.org/licenses/). You can get a good introduction to concept of open data with [this video](http://www.youtube.com/watch?v=QBSNr6UXIJg) from the [Open Knowledge Foundation Germany](http://okfn.de/).
-
-If datasets are created with public funds then it is hard to argue that they shouldn’t be freely accessible to everyone (as long as safety and personal privacy is not compromised). Open cultural data refers to digital records of the collections held by cultural heritage institutions that are placed in the public domain under open license. This year, Coding da Vinci is on track to feature over 100 open datasets (metadata, pictures, sounds and videos) addressing different cultural topics - from insect box scans, to historical buildings, painting, music instruments and much more! You can find all [datasets](https://codingdavinci.de/daten/), along with open source code from the participants of previous events for all past Coding da Vinci [projects](https://codingdavinci.de/projekte/) on these pages to explore and re-mix.
-
-
-
-What can you do with cultural data?
-In the last years, over 400 participants have realized 54 digital cultural projects using over 100 datasets provided by over 60 cultural institutions. All projects showed remarkable diversity and a high level of technical expertise. 
-Many teams decided to create mobile apps: For example [zzZwitscherwecker](https://codingdavinci.de/projects/2014/zwitscherwecker.html#project-name), which wakes you with a different bird call every morning and only turns off when the responsible bird is correctly identified, or [Zeitblick](https://codingdavinci.de/projects/2016/zeitblick.html), which analyses selfies to find your historical doppelgänger from the archive of Museum für Kunst und Gewerbe Hamburg.
-
-
-Many of the other projects took the form of websites that reveal new connections between different cultural heritage datasets through storytelling, interactive visualizations, and maps. [Wiederaufbau Ost-Berlin](https://codingdavinci.de/projects/2015/wiederaufbau-ost-berlin.html#project-name), for example, is a responsive site that collects archive content from various sources and combines to make location-specific tours which reconstruct the GDR government's vision for the capital in texts and images on your mobile device. Several teams have ventured even further, creating augmented reality experiences or hardware prototypes, for example the [Cyberbeetle](https://codingdavinci.de/projects/2014/cyberbeetle.html#project-name), a robot reincarnation of the Chalcosoma Atlas beetle, exhibited in the Museum für Naturkunde Berlin, complete with his own hi-tech insect box featuring an interactive home theater where he can enjoy nature-inspired music videos.
-
-Over the years, participating cultural institutions are regularly surprised and impressed by how Coding da VInci participants chose to explore and interpret their data.
-Thomas Kollatz of the Salomon Ludwig Steinheim-Institut für deutsch-jüdische Geschichte made a point of commending the great teamwork he experienced with the Poetic Relief project whose team members also, in his words, brought to light inconsistencies and terminological issues in their data through relentless attention to detail. Ruth Rosenberger, Haus der Geschichte der Bundesrepublik Deutschland, expressed how exciting it was to collaborate with a young, interdisciplinary team, who looked at archival images with fresh eyes. Impressed with the concepts they came up with and how much they were able to create in a short time, for her it also highlighted the kind technological competence necessary for a modern museum to take its place in digital culture.
-
-
-Your question has not yet been answered?
-Contact:
+Was ist Coding da Vinci?
+Coding da Vinci ist der erste deutsche Hackathon für offene Kulturdaten. Seit 2014 vernetzt
+**Coding da Vinci** technikaffine und kulturbegeisterte Communities mit deutschen
+Kulturinstitutionen, um das kreative Potential in unserem digitalen Kulturerbe weiter zu
+entfalten.
+Während ein klassischer Hackathon den Teilnehmern nur wenig Zeit gibt,
+Softwareanwendungen zu entwickeln – in der Regel ein Wochenende – erstreckt sich
+Coding da Vinci über eine Zeitspanne von sechs bis zehn Wochen. Dieser erweiterte
+Zeitrahmen schafft den dringend benötigten Raum, in dem sich die oft getrennten Welten
+kreativer Technologieentwicklung und institutioneller Kulturbewahrung treffen können, um
+voneinander zu lernen und miteinander aktiv zu werden.
+Der mindestens sechswöchige Sprint wird eingeleitet durch ein zwei Tage dauernder
+Kick-Off. Auf diesem Event haben die Institutionen Zeit, den Teilnehmern ihre Daten zu
+präsentieren und mit ihnen gemeinsam Ideen zu entwickeln und Teams zu bilden. In den
+darauffolgenden Wochen erstellen die Teams aus diesen Ideen funktionierende Prototypen,
+die in der Abschlussveranstaltung mit Preisverleihung der Öffentlichkeit präsentiert werden.
+Kick-Off-Event Sprint Preisverleihung
+Präsentation der Daten,
+Workshops und
+Kennenlernen der Experten Min sechs Wochen Zeit für
+die Projektentwicklung Präsentation aller Projekte
+und Preisverleihung
+Welche Chancen birgt das digitale Zeitalter für Kulturinstitutionen
+Welche kreativen Energien werden freigesetzt, wenn digitale Kulturdaten offen zugänglich
+und frei nutzbar sind? Immer mehr Kulturinstitutionen (gemeint sind die „GLAMs“ englisch
+für: *Galleries, Libraries, Archives and Museums*) digitalisieren ihre Sammlungen, wodurch
+es (zumindest in der Theorie) viel leichter wird, die Sammlungen mit der Öffentlichkeit zu
+teilen und zugänglich zu machen. Dennoch immer gibt es in einigen Kulturinstitutionen
+Bedenken. So könnten durch eine umfassende Öffnung der digitalen Sammlungen, das
+digitalisierte Kulturerbe in missliche Kontexte gesetzt oder durch ihre kommerzielle
+Nachnutzung entwertet werden. Durch die Öffnung der Sammlungen für die Nutzung Dritter
+befürchten manche den Verlust der Deutungshoheit. Bedenken, die Coding da Vinci
+zerstreuen möchte.Die Verfügbarkeit von Kulturgütern in digitaler Form verändert die Beziehung zwischen
+Kultureinrichtungen und den Kulturinteressierten. Wenn die digitalen Gegenstücke
+physischer Originale kopiert, leicht modifiziert und erweitert und durch das Internet überall
+verfügbar gemacht werden, können aus Kulturbetrachtern Kulturschaffende werden. Es
+handelt sich um Menschen, die Wissen nicht einfach nur aufnehmen, sondern es aktiv
+weiterverbreiten, anreichern, in neue Kontexte einbringen und damit arbeiten, und damit
+neues Wissen schaffen.
+Bedauerlicherweise wird dieses große Potential von den Kulturinstitutionen in der Regel
+noch oft verkannt. Doch in unserer vernetzten Welt, wird es für u.a. Archive, Museen, und
+Bibliotheken zunehmend wichtiger, gute Antworten zu geben auf die Frage, wie sie mit ihren
+digitalen Besuchern interagieren und in welcher Form sie ihre Sammlungen digital verfügbar
+und nutzbar machen. Es ist an der Zeit, die mit der Digitalisierung einhergehenden
+Perspektiven und Fragen aktiv zu entdecken! Welche Rolle spielen GLAMs bei der
+Förderung und Verbreitung digitalen Kulturerbes und dessen Zugänglichmachung für neue
+Zielgruppen? Was können sie von den kreativen Köpfen der digitalen Welt lernen?
+Welche Ziele verfolgt Coding da Vinci?
+Coding da Vinci schafft einen Rahmen, in dem sich Kulturinstitutionen und Communitys, die
+kreativ mit Daten arbeiten, treffen und vernetzen können. Seit der Gründung von Coding da
+Vinci in Berlin 2014 hat sich das Projekt zu einem fest etablierten Teil der Szene für offene
+Kulturdaten entwickelt. Das Projektarchiv von Coding da Vinci wird zunehmend zu einer
+wichtigen Plattform. Es inspiriert Kuratoren und Mitarbeitende digitaler Datensammlungen:
+Hier können sie die Potentiale frei zugänglicher und nutzbarer Kulturdaten erkennen und
+erleben.
+2016 ging Coding da Vinci mit Coding da Vinci Nord erstmals in die Region. Aus einem
+bundesweitem Event wurde ein dezentrales Projekt mit regionalen Events in
+Berlin-Brandenburg und Hamburg. Rhein-Main und weitere Regionen sind in Vorbereitung.
+Die langfristige Vision von Coding da Vinci ist die Schaffung dauerhafter Strukturen, in
+denen Kulturinstitutionen und interessierte Teile der Zivilgesellschaft auf Basis offener Daten
+zusammenarbeiten können. Wir möchten dazu beitragen, den strukturellen Wandel in
+Kulturerbeinstitutionen zu ermöglichen, offene Daten als ein Thema für die Politik bekannt
+machen und die Zugänglichkeit digitalen Kulturerbes in der Gesellschaft prominenter
+platzieren.Was sind offene Kulturdaten?
+Offene Daten (auf Englisch: Open Data) sind frei verfügbare Datensätze. Wenn sie mit
+öffentlichen Geldern erstellt wurden und sollten sie jedem frei zur Verfügung stehen. Es
+handelt sich um maschinenlesbare, jedoch nicht um sicherheitsrelevante oder
+personenbezogene Daten. Offene Kulturdaten sind in der Regel Daten, die von
+Kulturinstitutionen wie z.B. Museen, Archiven, Bibliotheken u.a. geschaffen werden. Eine
+gute Einführung in das offene Daten Thema zeigt [dieses
+Video](http://www.youtube.com/watch?v=QBSNr6UXIJg) der [Open Knowledge Foundation
+Deutschland](http://okfn.de/). In der [Open Definition](http://opendefinition.org/licenses/) wird
+genauer erklärt, wie man "offen" versteht.
+Sowohl die für den Kulturhackathon Coding da Vinci bereitgestellten Datensets als auch der
+Quellcode der im Rahmen von Coding da Vinci geschaffenen Anwendungen stehen nach
+dem Hackathon der Allgemeinheit zur freien Nachnutzung unter einer offenen Lizenz ([Open
+Source](http://opensource.org/licenses) bzw. [Open
+Definition](http://opendefinition.org/licenses/)) zur Verfügung.
+Durch die Arbeit in den vorangegangenen Jahren werden auf der Website von Coding da
+Vinici bereits [über 100 Datensets zu verschiedensten
+Themen](https://codingdavinci.de/daten/) und in verschiedensten Formaten (Bilder, Sounds,
+3D-Objekte, Videos und Metadaten) zur freien Nutzung ausgewiesen.
+Was ist mit Kulturdaten möglich?
+Im Rahmen von Coding da Vinci haben in den letzten Jahren 400 Teilnehmer 54 digitale
+Kulturanwendungen umgesetzt und dafür über 100 Datensets von 60 Kulturinstitutionen
+genutzt. Die digitalen Projekte zeichnen sich durch eine bemerkenswerte Vielfalt und hohe
+technische Expertise aus.
+Viele Teams haben sich für die Realisierung von mobilen Apps entschieden wie z.B.
+[zzZwitscherwecker](https://codingdavinci.de/projects/2014/zwitscherwecker.html#project-na
+me) – ein Wecker der jeden Morgen einen anderen Vogelgesang abspielt und sich nur
+ausschalten lässt, indem man den zum Gesang passenden Vogel identifiziert. Oder
+[Zeitblick](https://codingdavinci.de/projects/2016/zeitblick.html) – eine App, die Selfies
+analysiert und nach historischen Doppelgängern in den Fotoarchiven des Museums für
+Kunst und Gewerbe Hamburg sucht.Andere Projekte wählten die Form von Webseiten, auf denen mit Storytelling, über Karten
+oder mittels interaktiver Darstellungen Beziehungen zwischen Daten unterschiedlicher
+Quellen hergestellt werden. [Wiederaufbau
+Ost-Berlin](https://codingdavinci.de/projects/2015/wiederaufbau-ost-berlin.html#project-nam
+e) beispielsweise ist eine über ein Smartphone navigierbare Seite, die Archivmaterialien aus
+diversen Quellen kombiniert und daraus die Zukunftsvision der DDR-Regierung für die
+Hauptstadt rekonstruiert. Sie ist jetzt mobil auf einer Tour durch die Stadt in Form von
+Bildern und Texten abrufbar.
+Manche Teams gingen sogar noch weiter und realisierten Augmented-Reality-Anwendungen
+oder Hardwareprojekte.
+[Cycberbeetle](https://codingdavinci.de/projects/2014/cyberbeetle.html#project-name) ist
+robotischer Nachbau des Chalcosoma-Atlas-Käfers, der heute in einer speziellen High
+Tech-Insektenbox im Museum für Naturkunde Berlin ausgestellt ist; die Box verfügt über ein
+eigenes interaktives Heimkino, mit dem der Roboterkäfer von der Natur inspirierte
+Musikvideos genießt.
+Vielfach zeigen sich die teilnehmenden Kulturinstitutionen überrascht und beeindruckt
+davon, wie intensiv Coding da Vinci-Teilnehmer Daten explorieren und interpretieren. So
+hob Thomas Kollatz vom Steinheim-Institut für deutsch-jüdische Geschichte besonders die
+Teamarbeit innerhalb des Projektes “Poetic Relief” zu jüdischen Grabsteinen hervor. Dank
+ihrer präzisen Arbeit konnten sie Inkonsistenzen und terminologische Ungereimtheiten im
+Datensatz des Instituts aufspüren.
+Ruth Rosenberger vom Haus der Geschichte der Bundesrepublik Deutschland begeisterte
+sich für den frischen Blick eines jungen und interdisziplinären Teams auf die Archivbilder.
+Besonders beeindruckt war sie von der Innovativität der Konzepte und wieviel in so kurzer
+Zeit umgesetzt werden konnte. Es machte ihr deutlich, wie stark ein modernes Museum auf
+technische Kompetenzen angewiesen ist, will es einen angemessenen Platz in einer
+digitalen Kulturwelt einnehmen.
+Ihre Frage wurde nicht beantwortet?
+Kontakt:
 codingdavinci@zib.de
-Phone: 030 219 158 26-0
-
-Coding da Vinci - Der Kultur-Hackathon is a community project from [Deutsche Digitalen Bibliothek (DDB)](https://www.deutsche-digitale-bibliothek.de/), [Open Knowledge Foundation Germany e.V. (OKF DE)](http://okfn.de/), [Servicestelle Digitalisierung Berlin (digiS)](http://www.servicestelle-digitalisierung.de/confluence/pages/viewpage.action?pageId=917513) and [Wikimedia Deutschland e.V. (WMDE)](https://www.wikimedia.de/).
-
+Telefon: 030 219 158 26-0Coding da Vinci - Der Kultur-Hackathon ist ein Gemeinschaftsprojekt der [Deutsche Digitalen
+Bibliothek (DDB)](​ https://www.deutsche-digitale-bibliothek.de/​ ), der [Open Knowledge
+Foundation Germany e.V. (OKF DE)](http://okfn.de/), der [Servicestelle Digitalisierung Berlin
+(digiS)](http://www.servicestelle-digitalisierung.de/confluence/pages/viewpage.action?pageId
+=917513) und [Wikimedia Deutschland e.V. (WMDE)](https://www.wikimedia.de/).
