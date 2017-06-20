@@ -49,3 +49,11 @@ git merge stage
 #zum ignorieren von dateien und directories: gitignore  - https://git-scm.com/docs/gitignore
 
 #git pinning für versionen? https://opam.ocaml.org/blog/opam-1-2-pin/
+
+#einen merge rückgängig machen: 2066  git log 
+ 2067  git revert -m 1 1dcb04f53656e84bceb738a498c9e00baf89b14e
+ 2068  git revert HEAD 
+ 2069  git log 
+ 2070  git push
+
+
