@@ -46,6 +46,14 @@ git merge stage
 #einzelne commits nicht in den master mergen geht laut johl mit git cherry picking - wie es genau geht, muss mal ausprobiert werden
 #guter start ist vermutlich https://schacon.github.io/git/git-cherry-pick.html https://www.git-scm.com/docs/git-cherry-pick/1.7.3.3 https://gist.github.com/kylejohnson/8554540e741e8ad29412
 
+#cherypicking - geht prima
+git checkout gh-pages
+git pull
+git cherry-pick 69c7d8c
+git push origin gh-pages
+
+
+
 #zum ignorieren von dateien und directories: gitignore  - https://git-scm.com/docs/gitignore
 
 #git pinning für versionen? https://opam.ocaml.org/blog/opam-1-2-pin/
