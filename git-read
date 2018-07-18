@@ -65,3 +65,5 @@ git push origin gh-pages
  2070  git push
 
 
+#git difftool <version> - vimdiff in git-config festlegen
+
