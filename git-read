@@ -17,6 +17,8 @@ git commit -a + git push
 
 #einen neuen Feature-Branch erstellen und gleichzeitig hineinwechseln 
 git checkout -b neuerbranch
+#branch remote anlegen und da reinschreiben
+git push -u origin neuerbranch
 
 #in den master reinmergen
 git checkout master
